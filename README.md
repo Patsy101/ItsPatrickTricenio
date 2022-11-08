@@ -35,3 +35,13 @@ I am aspiring to be a Full Stack Developer/Programmer <img src="https://media.gi
 - :zap: In my free time, I listen to music and cleaning the house.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Patrick-Linkedin-blue)](www.linkedin.com/in/patrick-tricenio)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img scr="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+
+</div>
