@@ -28,3 +28,10 @@
 
 I am aspiring to be a Full Stack Developer/Programmer <img src="https://media.giphy.com/media/OVay6ruYLVNNF8zhxH/giphy.gif" width="30"> from Auckland, New Zealand  <img src="https://media.giphy.com/media/Qa4cAGMr5NfUuINAXd/giphy.gif" width="30">
 
+- :telescope: Aspiring Technologist and Software Programmer contributing to web applications, IOS and Android.
+
+- :seedling: Expanding my knowledge on Programming and Building small projects
+
+- :zap: In my free time, I listen to music and cleaning the house.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/patrick-tricenio)
