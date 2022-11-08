@@ -34,4 +34,4 @@ I am aspiring to be a Full Stack Developer/Programmer <img src="https://media.gi
 
 - :zap: In my free time, I listen to music and cleaning the house.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/patrick-tricenio)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Patrick-Linkedin-blue)](www.linkedin.com/in/patrick-tricenio)
