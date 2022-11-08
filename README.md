@@ -24,7 +24,7 @@
 
 ---
 
-### man_technologist: About Me :
+### woman_technologist: About Me :
 
-I am aspiring to be a Full Stack Developer/Programmer <img src="https://media.giphy.com/media/OVay6ruYLVNNF8zhxH/giphy.gif" width="30"> from Auckland, New Zealand
+I am aspiring to be a Full Stack Developer/Programmer <img src="https://media.giphy.com/media/OVay6ruYLVNNF8zhxH/giphy.gif" width="30"> from Auckland, New Zealand  <img src="https://media.giphy.com/media/Qa4cAGMr5NfUuINAXd/giphy.gif" width="30">
 
