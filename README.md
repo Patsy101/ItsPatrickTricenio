@@ -41,7 +41,7 @@ I am aspiring to be a Full Stack Developer/Programmer <img src="https://media.gi
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img scr="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40" height="40"/>&nbsp;
+  <img scr="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg" title="R" alt="R" width="40" height="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud"  alt="Google Cloud" width="40" height="40"/>&nbsp;
 </div>
